@@ -11,7 +11,7 @@ redirect_from:
 
 Hello, young tech enthusiasts! 👋
 
-![foo-bar-identity.jpg](url=http://chrisfutcher.com/is/15221514.html][img]/file_thumbview_approve/15221514/1/[/img][/url)
+![foo-bar-identity.jpg](url=http://chrisfutcher.com/is/12115465.html][img]/file_thumbview_approve/12115465/1/[/img][/url] [url=http://chrisfutcher.com/is/14443119.html)
 
 I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
 
