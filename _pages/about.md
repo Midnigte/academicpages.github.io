@@ -12,7 +12,7 @@ redirect_from:
 Hello, young tech enthusiasts! 👋
 
 [http://chrisfutcher.com/is/12115465.html](https://media.istockphoto.com/id/109724174/photo/first-grader.jpg?s=1024x1024&w=is&k=20&c=ET296x9p3Vw_ukD5XVfRgkaOfttP1mC-uTH4riW-Ugk=)
-![Uploading image.png…]()
+![Uploading image.png…](https://media.istockphoto.com/id/109724174/photo/first-grader.jpg?s=1024x1024&w=is&k=20&c=ET296x9p3Vw_ukD5XVfRgkaOfttP1mC-uTH4riW-Ugk=)
 
 I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
 
